@@ -18,5 +18,5 @@ My main stack is **C++, Python, React and Node.js**. I'm comfortable on Linux, G
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/itamar-cohen-ab9238278/)
+ [LinkedIn](https://www.linkedin.com/in/itamar-cohen-ab9238278/)
 
